@@ -17,7 +17,7 @@ Uma lista maravilhosa a respeito do desenvolvimento de games usando tecnologias 
 
 ## Vídeos
 
-- [Filipe Alves: Criando Jogos em JavaScript](https://www.youtube.com/playlist?list=PL1EkVGo1AQ0Hsqhvjm4khfp6innDjpj9J)
+- [Filipe Alves: Criando jogos com JavaScript e HTML5](https://www.youtube.com/playlist?list=PL1EkVGo1AQ0Hsqhvjm4khfp6innDjpj9J)
 
 ##Licença
 
