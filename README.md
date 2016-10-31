@@ -1,7 +1,7 @@
 # Awesome HTML5 Game Development
-[![Chicken](https://github.com/daltonmenezes/pepper-the-chicken/blob/master/src/sprites/chicken.png)](#)
-[![Chicken2](https://github.com/daltonmenezes/pepper-the-chicken/blob/master/src/sprites/chicken2.png)](#)
-[![Chicken3](https://github.com/daltonmenezes/pepper-the-chicken/blob/master/src/sprites/chicken-hit.png)](#)
+[![Chicken](https://github.com/daltonmenezes/pepper-the-chicken/blob/master/src/sprites/chicken.png)]()
+[![Chicken2](https://github.com/daltonmenezes/pepper-the-chicken/blob/master/src/sprites/chicken2.png)]()
+[![Chicken3](https://github.com/daltonmenezes/pepper-the-chicken/blob/master/src/sprites/chicken-hit.png)]()
 
 An awesome list about game development using HTML5 technologies.
 
