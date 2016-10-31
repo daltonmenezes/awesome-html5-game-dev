@@ -12,6 +12,13 @@ Uma lista maravilhosa a respeito do desenvolvimento de games usando tecnologias 
 - [English](English.md)
 - Português
 
+## Tabela de Conteúdos
+- [Vídeos](#vídeos)
+
+## Vídeos
+
+- [Filipe Alves: Criando Jogos em JavaScript](https://www.youtube.com/playlist?list=PL1EkVGo1AQ0Hsqhvjm4khfp6innDjpj9J)
+
 ##Licença
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
