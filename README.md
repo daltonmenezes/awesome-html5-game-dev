@@ -1,7 +1,14 @@
-# Awesome HTML5 Game Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome HTML5 Game Development 
 An awesome list about game development using HTML5 technologies.
 
-####In progress...
+[![Status](https://img.shields.io/badge/status-in%20progress-orange.svg)]()
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+For better organization and quickly access, the content in here is separated from the language that was written or spoken.
+
+## Contents in
+- [English]()
+- [Português]()
 
 ##License
 
