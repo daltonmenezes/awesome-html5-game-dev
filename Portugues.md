@@ -18,8 +18,9 @@ Uma lista maravilhosa a respeito do desenvolvimento de games usando tecnologias 
 ## Vídeos
 
 - [Filipe Alves: Criando jogos com JavaScript e HTML5](https://www.youtube.com/playlist?list=PL1EkVGo1AQ0Hsqhvjm4khfp6innDjpj9J)
+- [Filipe Alves: Criando jogo Snake para Android com HTML5 e JavaScript](https://www.youtube.com/playlist?list=PL1EkVGo1AQ0Gt1dxKl4e35DY4G9qb5W7_)
 - [Gustavo Silveira: Canvas básico](https://www.youtube.com/playlist?list=PLclUTiUoLCbAHv7L2x4BzHdWRmhv1Hs63)
-- [Gustavo Silveira: Jogo completo em JavaScript - Batalha espacial] (https://www.youtube.com/playlist?list=PLclUTiUoLCbAHBIQ8HbdE55P80a1uoLBW)
+- [Gustavo Silveira: Jogo completo em JavaScript - Batalha espacial](https://www.youtube.com/playlist?list=PLclUTiUoLCbAHBIQ8HbdE55P80a1uoLBW)
 
 ##Licença
 
