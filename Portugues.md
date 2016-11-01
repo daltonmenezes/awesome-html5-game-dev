@@ -19,6 +19,7 @@ Uma lista maravilhosa a respeito do desenvolvimento de games usando tecnologias 
 
 - [Filipe Alves: Criando jogos com JavaScript e HTML5](https://www.youtube.com/playlist?list=PL1EkVGo1AQ0Hsqhvjm4khfp6innDjpj9J)
 - [Gustavo Silveira: Canvas básico](https://www.youtube.com/playlist?list=PLclUTiUoLCbAHv7L2x4BzHdWRmhv1Hs63)
+- [Gustavo Silveira: Jogo completo em JavaScript - Batalha espacial] (https://www.youtube.com/playlist?list=PLclUTiUoLCbAHBIQ8HbdE55P80a1uoLBW)
 
 ##Licença
 
