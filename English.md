@@ -12,7 +12,7 @@ An awesome list about game development using HTML5 technologies.
 - English
 - [Português](Portugues.md)
 
-##License
+## License
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
