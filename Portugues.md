@@ -22,7 +22,7 @@ Uma lista maravilhosa a respeito do desenvolvimento de games usando tecnologias 
 - [Gustavo Silveira: Canvas básico](https://www.youtube.com/playlist?list=PLclUTiUoLCbAHv7L2x4BzHdWRmhv1Hs63)
 - [Gustavo Silveira: Jogo completo em JavaScript - Batalha espacial](https://www.youtube.com/playlist?list=PLclUTiUoLCbAHBIQ8HbdE55P80a1uoLBW)
 
-##Licença
+## Licença
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
